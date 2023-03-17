@@ -1,0 +1,20 @@
+body{
+    background-image: url(BackGround.jpg);
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.head{
+    font-size: 4em;
+    color: goldenrod ;
+}
+p{
+    font-size: 3em;
+    color: white;
+}
+button{
+    cursor: pointer;
+    font-size: 3em;
+    margin-bottom: 1em;
+    background-color: goldenrod;
+}
